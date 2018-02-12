@@ -2,19 +2,19 @@ const Students = {
   idIncrementor: 3,
   students: [
     {
-      id: 1,
       firstName: 'Ada',
-      lastName: 'Lovelace'
+      lastName: 'Lovelace',
+      id: 1,
     },
     {
-      id: 2,
       firstName: 'Grace',
-      lastName: 'Hopper'
+      lastName: 'Hopper',
+      id: 2
     },
     {
-      id: 3,
       firstName: 'Jean',
-      lastName: 'Bartik'
+      lastName: 'Bartik',
+      id: 3
     }
   ],
   findAll: function() {
