@@ -1,17 +1,20 @@
 {
-  "name": "y",
+  "name": "yes",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Starting Out",
+  "main": "y",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelRomani/1stSaturday.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "morgan": "^1.9.0"
-  }
+  "bugs": {
+    "url": "https://github.com/MichaelRomani/1stSaturday/issues"
+  },
+  "homepage": "https://github.com/MichaelRomani/1stSaturday#readme"
 }
